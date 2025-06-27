@@ -61,6 +61,12 @@ jobs:
           PERSONAL_GITHUB_TOKEN: ${{ env.PERSONAL_GITHUB_TOKEN }}
         run: pipenv run python bot.py
 
+      - name: Run Follower Bot
+        env:
+          GITHUB_USER: ${{ env.USER_GITHUB }}
+          PERSONAL_GITHUB_TOKEN: ${{ env.PERSONAL_GITHUB_TOKEN }}
+        run: pipenv run python check_all_followers.py        
+
       - name: Commit and Push Changes
         if: github.ref == 'refs/heads/main'  # Ensures it runs only on the main branch
         run: |
