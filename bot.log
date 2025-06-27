@@ -45861,3 +45861,171 @@ Following users from your follower list is done! Total followers fetched: 2959, 
 2024-10-07 12:38:38,208 - INFO - Follower counter updated: 3044
 2024-10-07 12:38:38,208 - INFO - 
 Following users from your follower list is done! Total followers fetched: 2995, Total followers followed: 3044
+2025-06-27 11:33:46,845 - INFO - Hi! I am GitHub Follower Bot.
+2025-06-27 11:33:46,845 - INFO - Letting you follow all your followers!
+2025-06-27 11:33:46,845 - INFO - Starting to fetch your follower lists...
+
+2025-06-27 11:33:46,846 - INFO - Loaded 3044 already followed users.
+2025-06-27 11:33:46,846 - INFO - Processing all followers without resume.
+2025-06-27 11:33:46,846 - INFO - Starting from page: 1
+2025-06-27 11:33:46,847 - INFO - Current follower counter: 3044
+2025-06-27 11:33:46,937 - INFO - Rate Limit - Remaining: 4994, Reset at: 2025-06-27 11:34:36
+2025-06-27 11:33:46,938 - INFO - Fetching followers from: https://api.github.com/users/homerj31/followers?per_page=100&page=1
+2025-06-27 11:33:47,024 - DEBUG - Number of followers fetched: 36
+2025-06-27 11:33:47,024 - INFO - Fetched 36 followers on page 1.
+2025-06-27 11:33:47,024 - INFO - Sleeping for 5 seconds before following users.
+2025-06-27 11:33:52,029 - INFO - Attempting to follow user: idimetrix
+2025-06-27 11:33:52,115 - INFO - Successfully followed user: idimetrix
+2025-06-27 11:33:52,116 - DEBUG - Appended user idimetrix to followers.txt.
+2025-06-27 11:33:52,116 - INFO - Follower counter updated: 3045
+2025-06-27 11:33:52,117 - INFO - Sleeping for 14.68 seconds before the next follow.
+2025-06-27 11:34:06,807 - INFO - Attempting to follow user: mustafacagri
+2025-06-27 11:34:06,887 - INFO - Successfully followed user: mustafacagri
+2025-06-27 11:34:06,888 - DEBUG - Appended user mustafacagri to followers.txt.
+2025-06-27 11:34:06,888 - INFO - Follower counter updated: 3046
+2025-06-27 11:34:06,888 - INFO - Sleeping for 14.59 seconds before the next follow.
+2025-06-27 11:34:21,495 - DEBUG - Already followed user: IDouble. Skipping.
+2025-06-27 11:34:21,495 - INFO - Attempting to follow user: djvelimir
+2025-06-27 11:34:21,586 - INFO - Successfully followed user: djvelimir
+2025-06-27 11:34:21,587 - DEBUG - Appended user djvelimir to followers.txt.
+2025-06-27 11:34:21,587 - INFO - Follower counter updated: 3047
+2025-06-27 11:34:21,587 - INFO - Sleeping for 11.60 seconds before the next follow.
+2025-06-27 11:34:33,194 - INFO - Attempting to follow user: sungeer
+2025-06-27 11:34:33,298 - INFO - Successfully followed user: sungeer
+2025-06-27 11:34:33,299 - DEBUG - Appended user sungeer to followers.txt.
+2025-06-27 11:34:33,299 - INFO - Follower counter updated: 3048
+2025-06-27 11:34:33,299 - INFO - Sleeping for 12.61 seconds before the next follow.
+2025-06-27 11:34:45,926 - INFO - Attempting to follow user: NeverPlayFair
+2025-06-27 11:34:46,012 - INFO - Successfully followed user: NeverPlayFair
+2025-06-27 11:34:46,012 - DEBUG - Appended user NeverPlayFair to followers.txt.
+2025-06-27 11:34:46,013 - INFO - Follower counter updated: 3049
+2025-06-27 11:34:46,013 - INFO - Sleeping for 10.50 seconds before the next follow.
+2025-06-27 11:34:56,522 - INFO - Attempting to follow user: OfficialCodeVoyage
+2025-06-27 11:34:56,701 - INFO - Successfully followed user: OfficialCodeVoyage
+2025-06-27 11:34:56,702 - DEBUG - Appended user OfficialCodeVoyage to followers.txt.
+2025-06-27 11:34:56,703 - INFO - Follower counter updated: 3050
+2025-06-27 11:34:56,703 - INFO - Sleeping for 10.53 seconds before the next follow.
+2025-06-27 11:35:07,247 - DEBUG - Already followed user: JohnMwendwa. Skipping.
+2025-06-27 11:35:07,247 - INFO - Attempting to follow user: mohammadhasanii
+2025-06-27 11:35:07,333 - INFO - Successfully followed user: mohammadhasanii
+2025-06-27 11:35:07,334 - DEBUG - Appended user mohammadhasanii to followers.txt.
+2025-06-27 11:35:07,334 - INFO - Follower counter updated: 3051
+2025-06-27 11:35:07,334 - INFO - Sleeping for 11.93 seconds before the next follow.
+2025-06-27 11:35:19,278 - DEBUG - Already followed user: Charles-Chrismann. Skipping.
+2025-06-27 11:35:19,278 - INFO - Attempting to follow user: helallao
+2025-06-27 11:35:19,394 - INFO - Successfully followed user: helallao
+2025-06-27 11:35:19,394 - DEBUG - Appended user helallao to followers.txt.
+2025-06-27 11:35:19,395 - INFO - Follower counter updated: 3052
+2025-06-27 11:35:19,395 - INFO - Sleeping for 14.90 seconds before the next follow.
+2025-06-27 11:35:34,311 - INFO - Attempting to follow user: Capi-nemoo
+2025-06-27 11:35:34,398 - INFO - Successfully followed user: Capi-nemoo
+2025-06-27 11:35:34,399 - DEBUG - Appended user Capi-nemoo to followers.txt.
+2025-06-27 11:35:34,399 - INFO - Follower counter updated: 3053
+2025-06-27 11:35:34,399 - INFO - Sleeping for 13.01 seconds before the next follow.
+2025-06-27 11:35:47,421 - INFO - Attempting to follow user: Roohollah81
+2025-06-27 11:35:47,549 - INFO - Successfully followed user: Roohollah81
+2025-06-27 11:35:47,550 - DEBUG - Appended user Roohollah81 to followers.txt.
+2025-06-27 11:35:47,550 - INFO - Follower counter updated: 3054
+2025-06-27 11:35:47,551 - INFO - Sleeping for 10.03 seconds before the next follow.
+2025-06-27 11:35:57,593 - INFO - Attempting to follow user: seckinyasar
+2025-06-27 11:35:57,672 - INFO - Successfully followed user: seckinyasar
+2025-06-27 11:35:57,673 - DEBUG - Appended user seckinyasar to followers.txt.
+2025-06-27 11:35:57,674 - INFO - Follower counter updated: 3055
+2025-06-27 11:35:57,674 - INFO - Sleeping for 13.22 seconds before the next follow.
+2025-06-27 11:36:10,898 - DEBUG - Already followed user: JCSIVO. Skipping.
+2025-06-27 11:36:10,898 - INFO - Attempting to follow user: krishkhinchi
+2025-06-27 11:36:11,103 - INFO - Successfully followed user: krishkhinchi
+2025-06-27 11:36:11,104 - DEBUG - Appended user krishkhinchi to followers.txt.
+2025-06-27 11:36:11,104 - INFO - Follower counter updated: 3056
+2025-06-27 11:36:11,104 - INFO - Sleeping for 13.58 seconds before the next follow.
+2025-06-27 11:36:24,703 - INFO - Attempting to follow user: mubarakumn
+2025-06-27 11:36:24,790 - INFO - Successfully followed user: mubarakumn
+2025-06-27 11:36:24,791 - DEBUG - Appended user mubarakumn to followers.txt.
+2025-06-27 11:36:24,791 - INFO - Follower counter updated: 3057
+2025-06-27 11:36:24,791 - INFO - Sleeping for 11.06 seconds before the next follow.
+2025-06-27 11:36:35,861 - INFO - Attempting to follow user: bbypink
+2025-06-27 11:36:35,974 - INFO - Successfully followed user: bbypink
+2025-06-27 11:36:35,975 - DEBUG - Appended user bbypink to followers.txt.
+2025-06-27 11:36:35,975 - INFO - Follower counter updated: 3058
+2025-06-27 11:36:35,976 - INFO - Sleeping for 13.44 seconds before the next follow.
+2025-06-27 11:36:49,418 - INFO - Attempting to follow user: DavoudMolaei
+2025-06-27 11:36:49,501 - INFO - Successfully followed user: DavoudMolaei
+2025-06-27 11:36:49,502 - DEBUG - Appended user DavoudMolaei to followers.txt.
+2025-06-27 11:36:49,502 - INFO - Follower counter updated: 3059
+2025-06-27 11:36:49,502 - INFO - Sleeping for 12.69 seconds before the next follow.
+2025-06-27 11:37:02,199 - INFO - Attempting to follow user: tgr-9
+2025-06-27 11:37:02,290 - INFO - Successfully followed user: tgr-9
+2025-06-27 11:37:02,291 - DEBUG - Appended user tgr-9 to followers.txt.
+2025-06-27 11:37:02,291 - INFO - Follower counter updated: 3060
+2025-06-27 11:37:02,291 - INFO - Sleeping for 14.69 seconds before the next follow.
+2025-06-27 11:37:16,997 - INFO - Attempting to follow user: MatthewMacri
+2025-06-27 11:37:17,122 - INFO - Successfully followed user: MatthewMacri
+2025-06-27 11:37:17,123 - DEBUG - Appended user MatthewMacri to followers.txt.
+2025-06-27 11:37:17,123 - INFO - Follower counter updated: 3061
+2025-06-27 11:37:17,123 - INFO - Sleeping for 14.08 seconds before the next follow.
+2025-06-27 11:37:31,213 - INFO - Attempting to follow user: nathalylorena
+2025-06-27 11:37:31,309 - INFO - Successfully followed user: nathalylorena
+2025-06-27 11:37:31,310 - DEBUG - Appended user nathalylorena to followers.txt.
+2025-06-27 11:37:31,311 - INFO - Follower counter updated: 3062
+2025-06-27 11:37:31,311 - INFO - Sleeping for 13.76 seconds before the next follow.
+2025-06-27 11:37:45,085 - DEBUG - Already followed user: warmice71. Skipping.
+2025-06-27 11:37:45,085 - INFO - Attempting to follow user: Bifenzine
+2025-06-27 11:37:45,193 - INFO - Successfully followed user: Bifenzine
+2025-06-27 11:37:45,194 - DEBUG - Appended user Bifenzine to followers.txt.
+2025-06-27 11:37:45,194 - INFO - Follower counter updated: 3063
+2025-06-27 11:37:45,194 - INFO - Sleeping for 10.91 seconds before the next follow.
+2025-06-27 11:37:56,111 - INFO - Attempting to follow user: mukeshlilawat1
+2025-06-27 11:37:56,218 - INFO - Successfully followed user: mukeshlilawat1
+2025-06-27 11:37:56,219 - DEBUG - Appended user mukeshlilawat1 to followers.txt.
+2025-06-27 11:37:56,219 - INFO - Follower counter updated: 3064
+2025-06-27 11:37:56,219 - INFO - Sleeping for 10.64 seconds before the next follow.
+2025-06-27 11:38:06,872 - INFO - Attempting to follow user: marichu-kt
+2025-06-27 11:38:06,974 - INFO - Successfully followed user: marichu-kt
+2025-06-27 11:38:06,975 - DEBUG - Appended user marichu-kt to followers.txt.
+2025-06-27 11:38:06,975 - INFO - Follower counter updated: 3065
+2025-06-27 11:38:06,975 - INFO - Sleeping for 10.28 seconds before the next follow.
+2025-06-27 11:38:17,262 - DEBUG - Already followed user: seniorvuejsdeveloper. Skipping.
+2025-06-27 11:38:17,263 - INFO - Attempting to follow user: nullptrException100
+2025-06-27 11:38:17,402 - INFO - Successfully followed user: nullptrException100
+2025-06-27 11:38:17,403 - DEBUG - Appended user nullptrException100 to followers.txt.
+2025-06-27 11:38:17,403 - INFO - Follower counter updated: 3066
+2025-06-27 11:38:17,404 - INFO - Sleeping for 12.27 seconds before the next follow.
+2025-06-27 11:38:29,684 - DEBUG - Already followed user: 0joseDark. Skipping.
+2025-06-27 11:38:29,684 - DEBUG - Already followed user: alikhazaeii. Skipping.
+2025-06-27 11:38:29,684 - INFO - Attempting to follow user: blixor
+2025-06-27 11:38:29,780 - INFO - Successfully followed user: blixor
+2025-06-27 11:38:29,782 - DEBUG - Appended user blixor to followers.txt.
+2025-06-27 11:38:29,782 - INFO - Follower counter updated: 3067
+2025-06-27 11:38:29,782 - INFO - Sleeping for 12.42 seconds before the next follow.
+2025-06-27 11:38:42,219 - INFO - Attempting to follow user: benjamincrazy1
+2025-06-27 11:38:42,315 - INFO - Successfully followed user: benjamincrazy1
+2025-06-27 11:38:42,316 - DEBUG - Appended user benjamincrazy1 to followers.txt.
+2025-06-27 11:38:42,316 - INFO - Follower counter updated: 3068
+2025-06-27 11:38:42,316 - INFO - Sleeping for 13.17 seconds before the next follow.
+2025-06-27 11:38:55,504 - INFO - Attempting to follow user: githubramim
+2025-06-27 11:38:55,631 - INFO - Successfully followed user: githubramim
+2025-06-27 11:38:55,632 - DEBUG - Appended user githubramim to followers.txt.
+2025-06-27 11:38:55,632 - INFO - Follower counter updated: 3069
+2025-06-27 11:38:55,632 - INFO - Sleeping for 14.40 seconds before the next follow.
+2025-06-27 11:39:10,044 - INFO - Attempting to follow user: usamadezign
+2025-06-27 11:39:10,137 - INFO - Successfully followed user: usamadezign
+2025-06-27 11:39:10,138 - DEBUG - Appended user usamadezign to followers.txt.
+2025-06-27 11:39:10,138 - INFO - Follower counter updated: 3070
+2025-06-27 11:39:10,138 - INFO - Sleeping for 11.46 seconds before the next follow.
+2025-06-27 11:39:21,606 - INFO - Attempting to follow user: iroot3
+2025-06-27 11:39:21,699 - INFO - Successfully followed user: iroot3
+2025-06-27 11:39:21,700 - DEBUG - Appended user iroot3 to followers.txt.
+2025-06-27 11:39:21,701 - INFO - Follower counter updated: 3071
+2025-06-27 11:39:21,701 - INFO - Sleeping for 10.47 seconds before the next follow.
+2025-06-27 11:39:32,184 - INFO - Attempting to follow user: d3v1sh
+2025-06-27 11:39:32,289 - INFO - Successfully followed user: d3v1sh
+2025-06-27 11:39:32,290 - DEBUG - Appended user d3v1sh to followers.txt.
+2025-06-27 11:39:32,291 - INFO - Follower counter updated: 3072
+2025-06-27 11:39:32,291 - INFO - Sleeping for 12.59 seconds before the next follow.
+2025-06-27 11:39:44,980 - INFO - Rate Limit - Remaining: 4976, Reset at: 2025-06-27 12:34:46
+2025-06-27 11:39:44,981 - INFO - Fetching followers from: https://api.github.com/users/homerj31/followers?per_page=100&page=2
+2025-06-27 11:39:45,067 - DEBUG - Number of followers fetched: 0
+2025-06-27 11:39:45,067 - INFO - No more followers to process. Exiting.
+2025-06-27 11:39:45,068 - INFO - Follower counter updated: 3072
+2025-06-27 11:39:45,068 - INFO - 
+Following users from your follower list is done! Total followers fetched: 36, Total followers followed: 3072
