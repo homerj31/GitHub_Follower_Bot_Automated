@@ -57,7 +57,7 @@ jobs:
 
       - name: Run Follower Bot
         env:
-          GITHUB_USER: ${{ env.GITHUB_USER }}
+          GITHUB_USER: ${{ env.USER_GITHUB }}
           PERSONAL_GITHUB_TOKEN: ${{ env.PERSONAL_GITHUB_TOKEN }}
         run: pipenv run python bot.py
 
