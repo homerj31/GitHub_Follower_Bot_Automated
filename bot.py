@@ -15,7 +15,8 @@ from logging.handlers import RotatingFileHandler
 load_dotenv()
 
 # Load environment variables
-GITHUB_USER = os.getenv('GITHUB_USER')
+# GITHUB_USER = os.getenv('GITHUB_USER')
+GITHUB_USER = homerj31
 PERSONAL_GITHUB_TOKEN = os.getenv('PERSONAL_GITHUB_TOKEN')
 
 if not GITHUB_USER or not PERSONAL_GITHUB_TOKEN:
