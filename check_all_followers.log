@@ -85,3 +85,15 @@
 2025-06-29 01:29:06,087 - INFO - API Requests Remaining: 4996
 2025-06-29 01:29:06,087 - INFO - Can Follow Now: 0
 2025-06-29 01:29:06,087 - INFO - =========================================
+2025-06-29 12:32:29,216 - INFO - Starting 'check_all_followers.py' script.
+2025-06-29 12:32:29,412 - INFO - Total followers: 1
+2025-06-29 12:32:29,415 - INFO - Loaded 3083 already followed users from 'followers.txt'.
+2025-06-29 12:32:29,617 - INFO - Rate Limit - Remaining: 4954, Reset at: 2025-06-29 12:43:00
+2025-06-29 12:32:29,618 - INFO - Current follower counter: 3083
+2025-06-29 12:32:29,618 - INFO - =========================================
+2025-06-29 12:32:29,618 - INFO - Total Followers: 1
+2025-06-29 12:32:29,618 - INFO - Already Followed: 3083
+2025-06-29 12:32:29,618 - INFO - Followers Left to Follow: 0
+2025-06-29 12:32:29,618 - INFO - API Requests Remaining: 4954
+2025-06-29 12:32:29,619 - INFO - Can Follow Now: 0
+2025-06-29 12:32:29,619 - INFO - =========================================
