@@ -48455,3 +48455,17 @@ Following users from your follower list is done! Total followers fetched: 0, Tot
 2025-08-23 01:13:29,348 - INFO - Follower counter updated: 3088
 2025-08-23 01:13:29,348 - INFO - 
 Following users from your follower list is done! Total followers fetched: 0, Total followers followed: 3088
+2025-08-23 12:30:08,540 - INFO - Hi! I am GitHub Follower Bot.
+2025-08-23 12:30:08,540 - INFO - Letting you follow all your followers!
+2025-08-23 12:30:08,540 - INFO - Starting to fetch your follower lists...
+
+2025-08-23 12:30:08,541 - INFO - Loaded 3088 already followed users.
+2025-08-23 12:30:08,541 - INFO - Processing all followers without resume.
+2025-08-23 12:30:08,542 - INFO - Starting from page: 1
+2025-08-23 12:30:08,542 - INFO - Current follower counter: 3088
+2025-08-23 12:30:08,640 - ERROR - Failed to check rate limit: 401 Client Error: Unauthorized for url: https://api.github.com/rate_limit
+2025-08-23 12:30:08,641 - INFO - Fetching followers from: https://api.github.com/users/homerj31/followers?per_page=100&page=1
+2025-08-23 12:30:08,741 - ERROR - HTTP error occurred while fetching followers: 401 Client Error: Unauthorized for url: https://api.github.com/users/homerj31/followers?per_page=100&page=1
+2025-08-23 12:30:08,741 - INFO - Follower counter updated: 3088
+2025-08-23 12:30:08,742 - INFO - 
+Following users from your follower list is done! Total followers fetched: 0, Total followers followed: 3088
