@@ -8564,3 +8564,16 @@
 2026-05-22 02:57:29,492 - INFO - API Requests Remaining: 0
 2026-05-22 02:57:29,492 - INFO - Can Follow Now: 0
 2026-05-22 02:57:29,492 - INFO - =========================================
+2026-05-22 14:32:28,800 - INFO - Starting 'check_all_followers.py' script.
+2026-05-22 14:32:28,847 - ERROR - Failed to retrieve total followers: 401 Client Error: Unauthorized for url: https://api.github.com/users/homerj31/followers?per_page=1&page=1
+2026-05-22 14:32:28,849 - INFO - Loaded 3088 already followed users from 'followers.txt'.
+2026-05-22 14:32:28,888 - ERROR - Failed to check rate limit: 401 Client Error: Unauthorized for url: https://api.github.com/rate_limit
+2026-05-22 14:32:28,888 - WARNING - Unable to retrieve rate limit information. Assuming 0 remaining requests.
+2026-05-22 14:32:28,888 - INFO - Current follower counter: 3088
+2026-05-22 14:32:28,889 - INFO - =========================================
+2026-05-22 14:32:28,889 - INFO - Total Followers: 0
+2026-05-22 14:32:28,889 - INFO - Already Followed: 3088
+2026-05-22 14:32:28,889 - INFO - Followers Left to Follow: 0
+2026-05-22 14:32:28,889 - INFO - API Requests Remaining: 0
+2026-05-22 14:32:28,889 - INFO - Can Follow Now: 0
+2026-05-22 14:32:28,889 - INFO - =========================================
